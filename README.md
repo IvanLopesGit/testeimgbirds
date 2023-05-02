@@ -1,14 +1,14 @@
 # Projeto Final - Modelos Preditivos Conexionistas
 
-### Nome do aluno
+### Ivan Lopes Alonso
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens<br>ou<br>Deteção de Objetos|ex.: YOLOv5|PyTorch ou Tensorflow|
+|Classificação de Imagens<br>|ResNet50|Tensorflow|
 
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+O modelo treinado possui performance de **0.9245%**.
 
 ### Output do bloco de treinamento
 
