@@ -46,14 +46,15 @@ O modelo treinado possui performance de **0.9245%**.
 
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
-Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
+Perdas X Épocas:
+![Descrição](https://imgur.com/Hnib8U9)
+
+Acurácia:
+![Descrição](https://imgur.com/h6Vf28U)
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
-
-Exemplo de link: [Nome do link](google.com)
+Link: [RoboFlow](https://app.roboflow.com/ivan-cvk3z/birds-uojom/2)
 
 ## HuggingFace
 
