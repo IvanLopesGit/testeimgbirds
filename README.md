@@ -60,4 +60,4 @@ Link: [RoboFlow](https://app.roboflow.com/ivan-cvk3z/birds-uojom/2)
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+Link: [HugginhFace](https://huggingface.co/NowakSotto/RNA_DL)
