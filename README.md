@@ -50,7 +50,7 @@ Perdas X Épocas:
 ![Descrição](https://imgur.com/Hnib8U9)
 
 Acurácia:
-![Descrição](https://imgur.com/h6Vf28U)
+!(image)[https://imgur.com/h6Vf28U]
 
 ## Roboflow
 
