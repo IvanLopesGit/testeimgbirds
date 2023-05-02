@@ -47,9 +47,11 @@ O modelo treinado possui performance de **0.9245%**.
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
 Perdas X Épocas:
+
 ![Descrição](https://imgur.com/Hnib8U9.png)
 
 Acurácia:
+
 ![Descrição](https://imgur.com/2DP3x8D.png)
 
 ## Roboflow
